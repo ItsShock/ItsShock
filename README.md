@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piotr Domian
 - 👀 I’m interested in chess, programming, martial arts and games.
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning JavaScript and ReactJS
 - 💞️ I’m looking for job or trainee
 - 📫 How to reach me domianpiotr111@gmail.com
 
